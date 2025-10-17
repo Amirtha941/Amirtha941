@@ -1,58 +1,103 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Amirtha K Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hey!!%20I'm%20Amirtha👋&fontAlignY=35&fontSize=45&desc=Embedded%20Engineer%20|%20VLSI%20|%20Quantum-AI%20Explorer&descAlignY=55&animation=twinkling" />
 </p>
 
-<!-- Animated Typing Header -->
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Embedded+Engineer+in+Progress;VLSI+%7C+AI+%7C+Quantum+Tech;Innovating+through+Hardware+%26+AI!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=600&lines=Embedded+Engineer+in+Progress;VLSI+%7C+AI+%7C+Quantum+Tech;Innovating+through+Hardware+%26+AI;Building+Future-Ready+Tech!" alt="Typing Animation">
   </a>
 </p>
 
-<!-- Introduction -->
+---
+
+## 🌟 About Me
+
+👋 Hi, I’m **Amirtha K** — an **Embedded Systems & VLSI Engineer** exploring the crossroads of **Quantum Technology, AI, and Secure Hardware Systems**.
+
+💡 Passionate about bridging **hardware intelligence** with **AI-driven solutions** and designing **secure, high-performance architectures** for next-gen devices.
+
+🚀 Currently learning advanced **FPGA-based design**, **AI on the Edge**, and **Quantum Key Distribution (QKD)** protocols.
+
+---
+
+## 🧠 Tech Stack
+
 <p align="center">
-Hi, I’m <b>Amirtha K</b> 👋 <br>
-An Embedded Systems & VLSI enthusiast exploring Quantum-AI Security and next-gen hardware solutions.
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%20%26%20C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded%20C-2E8B57?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/ESP32-orange?logo=espressif&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VHDL-800080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FPGA-143?logo=xilinx&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20AI-black?style=for-the-badge&logo=quantconnect" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-EF4F06?logo=mathworks&style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- Skills Badges -->
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/ESP32-orange?logo=espressif&style=for-the-badge" alt="ESP32">
-  <img src="https://img.shields.io/badge/VHDL-purple?style=for-the-badge" alt="VHDL">
-  <img src="https://img.shields.io/badge/Quantum-AI-red?style=for-the-badge" alt="Quantum AI">
-  <img src="https://img.shields.io/badge/MATLAB-yellow?logo=matlab&style=for-the-badge" alt="MATLAB">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amirtha941&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-<!-- Gradient Divider -->
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github.com/amirtha360/amirtha360/assets/gradient-divider.svg" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amirtha941&theme=radical&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirtha941&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
 </p>
 
-<!-- Projects Section -->
-## 🚀 Projects
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Quantum Key Distribution Simulation** | Python, Qiskit | Simulated secure quantum communication protocols like BB84 & E91. |
-| **VLSI-Based Hardware Accelerator** | VHDL, FPGA | Designed low-latency, energy-efficient signal processing modules. |
-| **ESP32 IoT Security Framework** | ESP32, Python | Developed secure data transmission protocols for IoT devices. |
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirtha360&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirtha941&layout=compact&theme=radical&hide_border=true&border_radius=10" width="45%" />
 </p>
 
-<!-- Contribution Streak -->
-## 📈 GitHub Stats
+---
+
+## 🌈 Fun Section
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirtha941&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirtha941&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<!-- Footer -->
+---
+
+## 🪄 Tools & Platforms
+
 <p align="center">
-  Let's connect!  
-  <a href="https://www.linkedin.com/in/amirtha360/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://github.com/amirtha360"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"></a>
-  <a href="mailto:amirtha@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ModelSim-0080FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proteus-3D8BFF?style=for-the-badge" />
+</p>
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirtha-k-1887b5256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Amirtha941">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
+  </a>
+  <a href="mailto:amirthak2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://Amirtha941.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF007F?logo=vercel&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
