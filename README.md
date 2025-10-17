@@ -64,6 +64,12 @@
 </p>
 
 ---
+## 💻 Coding Profiles
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CodeWith_Ami?theme=dark" alt="LeetCode Card" />
+</p>
+---
 
 ## 🪄 Tools & Platforms
 
