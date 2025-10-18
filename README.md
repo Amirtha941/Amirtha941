@@ -69,6 +69,19 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/CodeWith_Ami?theme=dark" alt="LeetCode Card" />
 </p>
+
+<p align="center">
+  <!-- HackerRank Badge -->
+  <a href="https://www.hackerrank.com/amirthak2004" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+
+  <!-- GeeksforGeeks Badge -->
+  <a href="https://auth.geeksforgeeks.org/user/amirthav3e0" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
+  </a>
+</p>
+
 ---
 
 ## 🪄 Tools & Platforms
