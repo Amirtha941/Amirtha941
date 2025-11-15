@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-👋 Hi, I’m **Amirtha K** — an **Embedded Systems & VLSI Engineer** exploring the crossroads of **Quantum Technology, AI, and Secure Hardware Systems**.
+👋 Hi, I’m **Amirtha** — an **Embedded Systems & VLSI Engineer** exploring the crossroads of **Quantum Technology, AI, and Secure Hardware Systems**.
 
 💡 Passionate about bridging **hardware intelligence** with **AI-driven solutions** and designing **secure, high-performance architectures** for next-gen devices.
 
