@@ -57,13 +57,14 @@
 
 ---
 
-## 🌈 Fun Section
+## 📈 Fun Section
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirtha941&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
+<!--
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -71,17 +72,17 @@
 </p>
 
 <p align="center">
-  <!-- HackerRank Badge -->
+ 
   <a href="https://www.hackerrank.com/amirthak2004" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
-  <!-- GeeksforGeeks Badge -->
+  
   <a href="https://auth.geeksforgeeks.org/user/amirthav3e0" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   </a>
 </p>
-
+-->
 ---
 
 ## 🪄 Tools & Platforms
